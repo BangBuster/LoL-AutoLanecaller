@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/LeagueOfLegends-LaneCaller/Dependencies
+/LeagueOfLegends-LaneCaller/nana_v142_Release_x64.lib
+/nana_v142_Release_x64.lib
