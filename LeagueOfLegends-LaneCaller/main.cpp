@@ -120,7 +120,7 @@ void sendPaste(std::string string) {
 	
 	
 	INPUT pasteKey;
-	pasteKey.type = pasteKey_KEYBOARD;
+	pasteKey.type = INPUT_KEYBOARD;
 	pasteKey.ki.wScan = 0;
 	pasteKey.ki.time = 0;
 	pasteKey.ki.dwExtraInfo = 0;
